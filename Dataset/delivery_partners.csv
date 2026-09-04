@@ -1,0 +1,31 @@
+partner_id,partner_name,partner_type,city,active_drivers,avg_delivery_rating
+1,"SwiftShip Logistics",DSP,Bengaluru,72,4.65
+2,"UrbanDrop Deliveries",Amazon_Flex,Mumbai,35,4.42
+3,"QuickWheels Express",DSP,Delhi,65,4.78
+4,"MetroRush Partners",Third_Party,Hyderabad,48,3.91
+5,"CityLink Couriers",Amazon_Flex,Chennai,28,4.15
+6,"FastTrack DSP",DSP,Pune,55,4.52
+7,"ReliDeliver Solutions",Third_Party,Kolkata,42,3.78
+8,"PrimeRoute Logistics",DSP,Bengaluru,68,4.81
+9,"SpeedDash Partners",Amazon_Flex,Ahmedabad,22,4.05
+10,"TrustLine Deliveries",DSP,Delhi,58,4.63
+11,"NexGen Last Mile",Third_Party,Mumbai,38,4.22
+12,"RapidReach DSP",DSP,Jaipur,45,4.47
+13,"SureShot Logistics",Amazon_Flex,Noida,30,4.33
+14,"ProDeliver India",DSP,Lucknow,40,4.19
+15,"EliteMove Partners",Third_Party,Kochi,25,3.85
+16,"RapidGo Partners",DSP,Coimbatore,52,4.56
+17,"UrbanShift Couriers",Amazon_Flex,Indore,18,4.08
+18,"PeakDrop Logistics",Third_Party,Nagpur,35,3.95
+19,"FleetFoot Express",DSP,Gurugram,60,4.71
+20,"DirectDash Deliveries",Amazon_Flex,Patna,15,3.88
+21,"Verma Logistics",DSP,Chandigarh,38,4.35
+22,"Gupta Express",Third_Party,Bhubaneswar,28,3.72
+23,"Sharma Deliveries",Amazon_Flex,Guwahati,12,4.01
+24,"Patel Couriers",DSP,Mumbai,55,4.59
+25,"Singh Partners",Third_Party,Delhi,45,4.12
+26,"Kumar Express",DSP,Hyderabad,50,4.44
+27,"Reddy Logistics",Amazon_Flex,Bengaluru,32,4.28
+28,"Nair Deliveries",Third_Party,Chennai,22,3.82
+29,"Mehta Partners",DSP,Kolkata,42,4.38
+30,"Joshi Express",Amazon_Flex,Pune,20,4.15

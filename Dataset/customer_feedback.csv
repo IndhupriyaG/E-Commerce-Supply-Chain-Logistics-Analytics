@@ -1,0 +1,275 @@
+feedback_id,order_id,rating,feedback_category,feedback_text,feedback_date
+1,102-2639436-9116057,3,Customer_Service,"Product is okay not great not terrible",2026-02-05
+2,103-2017146-5967617,2,Packaging,"Customer service was not helpful",2026-04-02
+3,106-4650522-1047346,1,Payment_Issue,"Worst experience will not order again",2026-05-14
+4,108-1686051-4188399,1,Packaging,"Very late delivery extremely disappointed",2026-07-06
+5,108-1981522-5667115,2,Packaging,"Late delivery missed the promised date",2026-08-27
+6,108-6714661-2327340,5,Delivery_Speed,"Smooth payment and quick delivery",2026-06-30
+7,120-4798087-1366319,4,Delivery_Speed,"Product is fine met my expectations",2026-05-12
+8,122-2021726-5436461,4,Payment_Issue,"Nice product quality delivery was on time",2026-08-06
+9,124-7383454-5191949,2,Packaging,"Product quality does not match the listing",2026-07-01
+10,129-7012554-3182460,4,Payment_Issue,"Product is fine met my expectations",2026-08-09
+11,131-2293333-6521761,2,Packaging,"Customer service was not helpful",2026-03-12
+12,131-7535468-5745280,3,Delivery_Speed,"Average experience delivery took longer than promised",2026-01-02
+13,132-6765926-1846495,5,Payment_Issue,"Outstanding service will order again",2026-04-14
+14,133-4777275-9895697,3,Packaging,"Packaging was damaged but product was fine",2026-04-06
+15,140-8696167-2257124,2,Delivery_Speed,"Payment issue caused delay in order",2026-06-01
+16,145-6423398-8740737,4,Product_Quality,"Nice product quality delivery was on time",2026-08-30
+17,151-5260743-2747516,2,Customer_Service,"Customer service was not helpful",2026-04-04
+18,151-5430280-3609540,4,Delivery_Speed,"Nice product quality delivery was on time",2026-07-27
+19,161-1627155-2280053,1,Packaging,"Worst experience will not order again",2026-06-04
+20,161-1965465-3967625,5,Customer_Service,"Outstanding service will order again",2026-06-23
+21,167-8102837-7492729,4,Product_Quality,"Good product minor delay in delivery",2026-08-15
+22,167-8640883-1178136,1,Payment_Issue,"Product arrived broken terrible packaging",2026-08-26
+23,168-6712906-9501501,3,Payment_Issue,"Average experience delivery took longer than promised",2026-05-21
+24,173-1497209-1271141,5,Delivery_Speed,"Fast shipping and great packaging",2026-07-14
+25,174-5662502-4069526,3,Customer_Service,"Average experience delivery took longer than promised",2026-02-25
+26,175-5736432-4412354,4,Packaging,"Nice product quality delivery was on time",2026-08-16
+27,181-5464958-2878395,4,Packaging,"Happy with purchase packaging could be better",2026-02-01
+28,188-9498758-4833491,3,Customer_Service,"Packaging was damaged but product was fine",2026-08-06
+29,192-3002575-8233527,5,Payment_Issue,"Product exactly as described very happy",2026-07-04
+30,194-9815110-6248113,4,Delivery_Speed,"Happy with purchase packaging could be better",2026-06-28
+31,200-6456834-7268355,2,Packaging,"Product quality does not match the listing",2026-08-16
+32,202-5232508-1097003,5,Product_Quality,"Fast shipping and great packaging",2026-04-29
+33,208-4839216-7947358,5,Product_Quality,"Product exactly as described very happy",2026-08-26
+34,219-8076486-5800341,2,Payment_Issue,"Payment issue caused delay in order",2026-08-15
+35,221-6826992-8476053,3,Delivery_Speed,"Delivery partner was not professional",2026-07-17
+36,222-3146890-8045443,5,Customer_Service,"Fast shipping and great packaging",2026-08-24
+37,227-1974049-2034876,5,Packaging,"Outstanding service will order again",2026-07-26
+38,227-2247328-3418906,2,Delivery_Speed,"Packaging was very poor item almost damaged",2026-04-06
+39,227-3715414-1753035,4,Payment_Issue,"Good product minor delay in delivery",2026-08-27
+40,229-1028897-6266509,5,Payment_Issue,"Outstanding service will order again",2026-04-13
+41,232-7141452-9739806,3,Payment_Issue,"Packaging was damaged but product was fine",2026-02-05
+42,240-1351470-7530863,4,Delivery_Speed,"Good experience overall",2026-07-06
+43,249-7262927-9831297,1,Customer_Service,"Product arrived broken terrible packaging",2026-09-04
+44,250-8650875-7750174,4,Customer_Service,"Product is fine met my expectations",2026-03-19
+45,255-9821078-4454627,4,Packaging,"Product is fine met my expectations",2026-01-12
+46,257-6919710-7872700,5,Customer_Service,"Smooth payment and quick delivery",2025-11-11
+47,259-2590987-4168960,4,Payment_Issue,"Good product minor delay in delivery",2026-02-27
+48,276-1200461-5715878,5,Delivery_Speed,"Product exactly as described very happy",2025-10-23
+49,277-4065627-2016038,3,Customer_Service,"Average experience delivery took longer than promised",2026-08-10
+50,277-5225198-7795757,2,Delivery_Speed,"Packaging was very poor item almost damaged",2026-08-22
+51,279-2875922-4998955,5,Packaging,"Product exactly as described very happy",2026-07-31
+52,286-8044972-3628263,2,Customer_Service,"Packaging was very poor item almost damaged",2026-06-29
+53,288-1342202-6049931,4,Packaging,"Good experience overall",2026-02-01
+54,290-5043670-6490536,3,Packaging,"Average experience delivery took longer than promised",2026-06-21
+55,290-7757590-2075182,4,Product_Quality,"Nice product quality delivery was on time",2025-10-28
+56,300-4092269-1456202,5,Packaging,"Product exactly as described very happy",2026-02-26
+57,302-2959781-4733265,5,Customer_Service,"Smooth payment and quick delivery",2026-02-27
+58,302-9914109-3505281,3,Customer_Service,"Product is okay not great not terrible",2026-04-26
+59,307-6534107-4436774,3,Delivery_Speed,"Packaging was damaged but product was fine",2026-02-14
+60,310-8547383-5415301,2,Packaging,"Late delivery missed the promised date",2026-05-14
+61,313-2501992-2105133,3,Product_Quality,"Expected better quality for the price",2026-06-09
+62,317-5376016-7359428,3,Delivery_Speed,"Packaging was damaged but product was fine",2026-08-30
+63,320-4735139-4061506,2,Delivery_Speed,"Customer service was not helpful",2026-04-08
+64,323-3039567-4503943,5,Packaging,"Fast shipping and great packaging",2026-07-28
+65,324-8976020-7154443,4,Delivery_Speed,"Happy with purchase packaging could be better",2026-08-28
+66,325-1848577-7472260,5,Product_Quality,"Fast shipping and great packaging",2026-05-29
+67,330-7116499-6653412,1,Delivery_Speed,"Very late delivery extremely disappointed",2026-07-08
+68,333-5041238-5193526,3,Product_Quality,"Average experience delivery took longer than promised",2026-08-11
+69,340-2879983-3188405,4,Delivery_Speed,"Good experience overall",2026-01-28
+70,342-7882811-1152589,4,Product_Quality,"Happy with purchase packaging could be better",2026-03-14
+71,347-7999087-1558408,3,Packaging,"Delivery partner was not professional",2025-12-09
+72,354-3075166-3734109,4,Packaging,"Nice product quality delivery was on time",2026-04-05
+73,355-1230169-3473194,5,Delivery_Speed,"Fast shipping and great packaging",2026-08-23
+74,355-8773523-5206320,2,Delivery_Speed,"Payment issue caused delay in order",2025-11-20
+75,359-6570461-3061926,5,Delivery_Speed,"Smooth payment and quick delivery",2026-06-05
+76,360-3281007-4577490,4,Delivery_Speed,"Nice product quality delivery was on time",2026-06-17
+77,361-4940338-3848489,2,Packaging,"Payment issue caused delay in order",2026-02-11
+78,362-4359994-9939025,1,Product_Quality,"Wrong product delivered",2025-11-07
+79,363-7521475-7696825,1,Product_Quality,"Very late delivery extremely disappointed",2026-04-02
+80,365-9188187-6964920,1,Packaging,"Wrong product delivered",2026-07-19
+81,368-6339925-1633107,2,Packaging,"Product quality does not match the listing",2026-02-14
+82,369-6670191-3257714,1,Delivery_Speed,"Wrong product delivered",2026-08-25
+83,370-5128516-4539122,4,Customer_Service,"Product is fine met my expectations",2026-08-23
+84,371-6041905-9070333,3,Payment_Issue,"Delivery partner was not professional",2026-08-08
+85,374-4858020-3055028,5,Delivery_Speed,"Product exactly as described very happy",2026-06-25
+86,376-2107800-7242555,2,Customer_Service,"Late delivery missed the promised date",2026-03-21
+87,380-2081126-6982843,5,Packaging,"Fast shipping and great packaging",2026-04-13
+88,383-1667719-4835945,1,Packaging,"Payment failed multiple times frustrating",2026-08-25
+89,385-6923724-4067973,3,Delivery_Speed,"Product is okay not great not terrible",2026-05-19
+90,386-4209206-8439515,4,Customer_Service,"Product is fine met my expectations",2026-07-10
+91,388-4531443-1004052,3,Packaging,"Average experience delivery took longer than promised",2026-07-22
+92,404-1755199-4627896,5,Delivery_Speed,"Outstanding service will order again",2026-03-17
+93,417-9284620-5895813,2,Packaging,"Packaging was very poor item almost damaged",2026-07-19
+94,420-3482930-3804607,1,Product_Quality,"Payment failed multiple times frustrating",2025-11-18
+95,420-6832281-2546928,4,Product_Quality,"Happy with purchase packaging could be better",2026-06-11
+96,423-9662586-7615514,1,Delivery_Speed,"Payment failed multiple times frustrating",2026-06-13
+97,426-2069106-5544904,4,Product_Quality,"Good experience overall",2026-08-25
+98,426-9033247-4361914,3,Product_Quality,"Packaging was damaged but product was fine",2026-07-31
+99,438-1842855-4048735,2,Packaging,"Payment issue caused delay in order",2026-06-05
+100,439-2446686-7033906,5,Product_Quality,"Outstanding service will order again",2026-05-22
+101,439-6468700-9166080,2,Packaging,"Packaging was very poor item almost damaged",2026-05-05
+102,440-3623307-3892882,2,Payment_Issue,"Payment issue caused delay in order",2026-08-23
+103,441-5198253-2742372,3,Payment_Issue,"Product is okay not great not terrible",2026-08-02
+104,442-4553052-8482523,2,Customer_Service,"Packaging was very poor item almost damaged",2026-03-24
+105,443-9042354-3905433,3,Payment_Issue,"Packaging was damaged but product was fine",2026-05-26
+106,445-9045120-3851860,1,Customer_Service,"Worst experience will not order again",2025-12-09
+107,445-9303459-5155230,1,Packaging,"Worst experience will not order again",2026-03-08
+108,448-1467008-1883065,5,Payment_Issue,"Excellent delivery arrived before expected date",2026-09-01
+109,448-7235432-3720628,3,Product_Quality,"Average experience delivery took longer than promised",2026-07-01
+110,449-7394446-4480678,2,Customer_Service,"Customer service was not helpful",2026-01-21
+111,451-5495942-3931634,5,Customer_Service,"Excellent delivery arrived before expected date",2026-05-19
+112,452-2279003-5818952,4,Delivery_Speed,"Good experience overall",2026-09-04
+113,453-1050727-8650782,5,Customer_Service,"Smooth payment and quick delivery",2026-08-25
+114,454-4681043-8779695,3,Customer_Service,"Average experience delivery took longer than promised",2026-03-01
+115,465-5387628-2976754,3,Customer_Service,"Product is okay not great not terrible",2026-04-27
+116,468-2710565-7501994,5,Payment_Issue,"Excellent delivery arrived before expected date",2026-08-03
+117,472-3904016-4340139,4,Product_Quality,"Good experience overall",2026-06-13
+118,475-6972377-1596914,4,Customer_Service,"Happy with purchase packaging could be better",2026-09-05
+119,477-1147206-8396500,3,Payment_Issue,"Packaging was damaged but product was fine",2026-07-06
+120,479-2685487-7043088,3,Packaging,"Packaging was damaged but product was fine",2026-06-04
+121,479-9328854-4261501,2,Customer_Service,"Late delivery missed the promised date",2026-07-13
+122,480-3770644-3450976,1,Customer_Service,"Wrong product delivered",2026-04-21
+123,480-4924297-9209371,2,Payment_Issue,"Product quality does not match the listing",2026-05-18
+124,492-9054963-2491726,1,Customer_Service,"Wrong product delivered",2026-04-09
+125,502-7324275-2543069,5,Packaging,"Outstanding service will order again",2026-03-18
+126,502-7991274-5873719,2,Product_Quality,"Late delivery missed the promised date",2026-08-03
+127,511-7119775-1266101,1,Product_Quality,"Worst experience will not order again",2026-06-20
+128,512-5174371-9491686,2,Payment_Issue,"Product quality does not match the listing",2026-04-30
+129,512-6991951-9597622,5,Payment_Issue,"Fast shipping and great packaging",2026-04-10
+130,513-6580713-7510150,5,Delivery_Speed,"Excellent delivery arrived before expected date",2026-08-23
+131,514-7829492-4726688,5,Delivery_Speed,"Fast shipping and great packaging",2026-08-11
+132,519-5955530-4183221,4,Packaging,"Good experience overall",2026-01-03
+133,520-7793188-4358428,1,Customer_Service,"Very late delivery extremely disappointed",2026-05-13
+134,520-8331212-7047286,4,Payment_Issue,"Good experience overall",2026-08-10
+135,522-3244112-8540773,5,Delivery_Speed,"Excellent delivery arrived before expected date",2026-03-26
+136,524-5487715-1709054,5,Packaging,"Smooth payment and quick delivery",2026-07-31
+137,524-7817454-4340122,4,Product_Quality,"Nice product quality delivery was on time",2026-01-02
+138,528-5534871-1818213,4,Customer_Service,"Nice product quality delivery was on time",2026-03-31
+139,536-6234283-5090177,4,Customer_Service,"Happy with purchase packaging could be better",2026-08-24
+140,540-7872121-4131478,2,Payment_Issue,"Customer service was not helpful",2026-05-07
+141,546-9806940-4627399,5,Packaging,"Excellent delivery arrived before expected date",2026-01-10
+142,550-4193167-3448588,3,Customer_Service,"Average experience delivery took longer than promised",2026-08-03
+143,550-8502749-7013225,3,Customer_Service,"Average experience delivery took longer than promised",2026-08-24
+144,552-1388691-7370349,2,Product_Quality,"Payment issue caused delay in order",2026-07-11
+145,554-3536967-9038950,1,Packaging,"Payment failed multiple times frustrating",2026-06-29
+146,556-6644800-6541247,1,Customer_Service,"Wrong product delivered",2026-08-31
+147,558-2742082-4943731,4,Payment_Issue,"Product is fine met my expectations",2026-08-21
+148,561-5891748-2617871,2,Packaging,"Product quality does not match the listing",2026-05-16
+149,562-6059768-3413045,5,Delivery_Speed,"Product exactly as described very happy",2026-08-22
+150,566-5339820-8705147,4,Delivery_Speed,"Good experience overall",2026-07-29
+151,567-1738052-8667095,3,Delivery_Speed,"Average experience delivery took longer than promised",2026-08-22
+152,568-7878622-3347560,4,Customer_Service,"Nice product quality delivery was on time",2026-06-01
+153,570-4203388-2915227,5,Customer_Service,"Fast shipping and great packaging",2026-03-11
+154,585-6258708-3723755,5,Customer_Service,"Fast shipping and great packaging",2026-07-01
+155,586-9033721-8580953,2,Payment_Issue,"Customer service was not helpful",2026-08-20
+156,587-5425782-8490390,2,Payment_Issue,"Customer service was not helpful",2026-07-29
+157,593-4340956-2886234,4,Packaging,"Nice product quality delivery was on time",2026-04-26
+158,597-5043869-6305584,2,Product_Quality,"Late delivery missed the promised date",2026-08-25
+159,598-2861974-4342976,5,Customer_Service,"Outstanding service will order again",2025-10-27
+160,605-4453189-3101094,1,Customer_Service,"Very late delivery extremely disappointed",2026-08-26
+161,605-7575822-9699270,4,Packaging,"Happy with purchase packaging could be better",2026-08-10
+162,607-9119063-8356198,2,Customer_Service,"Customer service was not helpful",2026-07-22
+163,610-5775316-9571097,1,Packaging,"Wrong product delivered",2026-08-23
+164,614-6268671-2899034,2,Delivery_Speed,"Late delivery missed the promised date",2026-08-21
+165,616-7905777-2027867,3,Product_Quality,"Packaging was damaged but product was fine",2026-08-31
+166,620-3236823-5562233,4,Product_Quality,"Good experience overall",2026-07-23
+167,625-3478736-6641429,1,Customer_Service,"Product arrived broken terrible packaging",2026-06-01
+168,628-6900638-5643534,1,Payment_Issue,"Very late delivery extremely disappointed",2026-07-25
+169,632-9024202-7146771,2,Packaging,"Customer service was not helpful",2026-08-31
+170,632-9268910-8374294,4,Product_Quality,"Nice product quality delivery was on time",2026-06-17
+171,641-4670291-3109019,5,Payment_Issue,"Product exactly as described very happy",2026-08-23
+172,645-2347564-9379410,5,Customer_Service,"Product exactly as described very happy",2026-07-20
+173,648-2785988-2474105,4,Packaging,"Good experience overall",2026-05-03
+174,649-4049249-8762139,3,Product_Quality,"Delivery partner was not professional",2026-08-16
+175,649-4974272-4395163,1,Customer_Service,"Wrong product delivered",2026-08-12
+176,654-2558465-1171350,5,Packaging,"Excellent delivery arrived before expected date",2026-08-25
+177,655-3414392-5417779,4,Delivery_Speed,"Product is fine met my expectations",2026-06-05
+178,667-1708280-5528444,4,Product_Quality,"Good product minor delay in delivery",2026-09-03
+179,670-8041716-1087070,4,Customer_Service,"Good product minor delay in delivery",2026-08-28
+180,673-9321184-7396981,4,Delivery_Speed,"Good product minor delay in delivery",2026-07-26
+181,678-5412596-5694230,5,Packaging,"Fast shipping and great packaging",2026-06-08
+182,683-8282405-1898245,4,Packaging,"Good product minor delay in delivery",2026-07-02
+183,685-7803406-8462599,3,Packaging,"Product is okay not great not terrible",2026-02-09
+184,687-7697174-7856710,5,Payment_Issue,"Product exactly as described very happy",2026-03-29
+185,690-3993480-7264157,4,Payment_Issue,"Product is fine met my expectations",2025-11-25
+186,691-4788784-2190238,3,Product_Quality,"Expected better quality for the price",2026-08-28
+187,702-5807411-6956668,2,Customer_Service,"Packaging was very poor item almost damaged",2026-06-20
+188,707-4906552-2307784,3,Delivery_Speed,"Average experience delivery took longer than promised",2026-07-26
+189,712-5124592-3239083,1,Packaging,"Product arrived broken terrible packaging",2026-08-02
+190,717-7079357-3864418,4,Packaging,"Happy with purchase packaging could be better",2026-06-16
+191,726-1681270-3605350,3,Customer_Service,"Expected better quality for the price",2026-03-05
+192,726-4737810-9900541,2,Delivery_Speed,"Product quality does not match the listing",2026-07-24
+193,730-5206422-3124002,2,Customer_Service,"Customer service was not helpful",2026-05-24
+194,730-7665843-6400809,5,Customer_Service,"Smooth payment and quick delivery",2026-07-15
+195,733-1188770-9943876,1,Packaging,"Worst experience will not order again",2026-07-14
+196,737-1902218-4387844,1,Payment_Issue,"Wrong product delivered",2026-06-22
+197,741-1154483-9523101,3,Customer_Service,"Average experience delivery took longer than promised",2026-05-21
+198,743-5547397-4417780,1,Product_Quality,"Product arrived broken terrible packaging",2026-07-20
+199,744-1326221-1283481,3,Delivery_Speed,"Delivery partner was not professional",2026-02-19
+200,744-6298022-8169448,2,Product_Quality,"Packaging was very poor item almost damaged",2026-08-26
+201,745-1174321-9508931,4,Payment_Issue,"Good product minor delay in delivery",2026-08-19
+202,745-7448869-4873523,1,Customer_Service,"Payment failed multiple times frustrating",2026-06-08
+203,751-1707889-2993631,1,Delivery_Speed,"Worst experience will not order again",2026-08-08
+204,754-6369312-8225024,5,Delivery_Speed,"Fast shipping and great packaging",2026-05-30
+205,762-2225387-5242879,5,Customer_Service,"Excellent delivery arrived before expected date",2026-08-29
+206,763-3451777-2349014,5,Packaging,"Excellent delivery arrived before expected date",2026-04-24
+207,765-3425648-2154220,2,Product_Quality,"Payment issue caused delay in order",2026-08-27
+208,771-4178428-5756141,1,Delivery_Speed,"Worst experience will not order again",2026-04-16
+209,773-4517057-7386784,4,Packaging,"Product is fine met my expectations",2026-03-30
+210,774-2711645-7335033,3,Product_Quality,"Average experience delivery took longer than promised",2026-04-30
+211,775-3266213-1065306,3,Delivery_Speed,"Expected better quality for the price",2026-07-04
+212,782-5779549-4436663,4,Delivery_Speed,"Product is fine met my expectations",2026-04-22
+213,801-7186959-1902361,5,Payment_Issue,"Smooth payment and quick delivery",2026-07-31
+214,802-4712895-7483172,2,Packaging,"Late delivery missed the promised date",2026-08-24
+215,802-9167363-2765287,5,Delivery_Speed,"Fast shipping and great packaging",2026-03-31
+216,805-5144310-9562788,4,Delivery_Speed,"Product is fine met my expectations",2026-03-21
+217,813-4807322-7622831,4,Delivery_Speed,"Happy with purchase packaging could be better",2026-08-23
+218,815-3420205-9638021,4,Product_Quality,"Good product minor delay in delivery",2026-06-09
+219,822-6732567-7995397,3,Customer_Service,"Packaging was damaged but product was fine",2026-07-06
+220,826-5553818-1977862,4,Product_Quality,"Nice product quality delivery was on time",2026-08-02
+221,826-9550270-3969495,3,Product_Quality,"Expected better quality for the price",2026-09-03
+222,831-6378487-5951440,4,Product_Quality,"Nice product quality delivery was on time",2026-08-31
+223,832-3827706-2177710,5,Delivery_Speed,"Product exactly as described very happy",2025-11-24
+224,834-1903651-1486687,3,Payment_Issue,"Average experience delivery took longer than promised",2026-03-09
+225,834-3292928-8427979,4,Packaging,"Nice product quality delivery was on time",2025-09-26
+226,835-2113162-2490957,2,Customer_Service,"Packaging was very poor item almost damaged",2026-04-07
+227,846-6586944-6553749,4,Product_Quality,"Good experience overall",2026-07-03
+228,848-4072578-2918712,4,Product_Quality,"Happy with purchase packaging could be better",2026-05-19
+229,854-9652657-3626894,3,Customer_Service,"Product is okay not great not terrible",2026-08-26
+230,855-3193963-7311969,5,Product_Quality,"Fast shipping and great packaging",2026-08-02
+231,869-5726040-1552523,3,Product_Quality,"Packaging was damaged but product was fine",2026-05-06
+232,872-8612743-6888457,2,Packaging,"Payment issue caused delay in order",2026-04-29
+233,873-4080243-2209800,5,Customer_Service,"Outstanding service will order again",2026-05-23
+234,876-6648538-5937533,3,Payment_Issue,"Packaging was damaged but product was fine",2026-06-07
+235,877-9047955-8923313,1,Delivery_Speed,"Product arrived broken terrible packaging",2026-08-17
+236,877-9350374-1413062,4,Customer_Service,"Good product minor delay in delivery",2026-07-25
+237,878-2908142-5179250,5,Delivery_Speed,"Outstanding service will order again",2026-08-08
+238,878-3084447-6057330,3,Payment_Issue,"Average experience delivery took longer than promised",2026-01-05
+239,886-8803665-7423179,2,Payment_Issue,"Packaging was very poor item almost damaged",2026-07-13
+240,897-7347028-8820333,1,Packaging,"Worst experience will not order again",2026-04-08
+241,902-7386030-8862099,3,Product_Quality,"Packaging was damaged but product was fine",2026-08-13
+242,903-9469249-1253793,5,Payment_Issue,"Excellent delivery arrived before expected date",2026-05-02
+243,904-6326547-3505490,1,Payment_Issue,"Product arrived broken terrible packaging",2026-07-11
+244,907-1492727-6229905,2,Delivery_Speed,"Packaging was very poor item almost damaged",2026-08-17
+245,917-5073865-5847419,4,Packaging,"Happy with purchase packaging could be better",2026-07-08
+246,917-7564756-9296659,4,Payment_Issue,"Good experience overall",2026-08-10
+247,918-8071409-2807523,1,Delivery_Speed,"Worst experience will not order again",2026-07-30
+248,920-2506092-1904920,3,Delivery_Speed,"Product is okay not great not terrible",2026-05-22
+249,923-9805327-2320752,2,Product_Quality,"Packaging was very poor item almost damaged",2026-07-06
+250,928-1580336-6039372,5,Payment_Issue,"Excellent delivery arrived before expected date",2026-06-12
+251,930-6216015-2170865,2,Packaging,"Late delivery missed the promised date",2026-08-23
+252,933-5324829-6617274,2,Packaging,"Payment issue caused delay in order",2026-05-20
+253,934-1690919-6422701,1,Packaging,"Payment failed multiple times frustrating",2026-07-15
+254,937-9690160-1330572,1,Customer_Service,"Payment failed multiple times frustrating",2025-12-04
+255,939-1767877-6646632,2,Product_Quality,"Payment issue caused delay in order",2026-07-05
+256,945-3321063-5232802,3,Product_Quality,"Average experience delivery took longer than promised",2026-05-25
+257,945-4247562-9877454,3,Product_Quality,"Expected better quality for the price",2026-06-30
+258,949-8357685-3301140,2,Delivery_Speed,"Late delivery missed the promised date",2026-02-23
+259,955-2398078-9315064,3,Packaging,"Delivery partner was not professional",2026-05-29
+260,956-9328739-7955663,3,Product_Quality,"Delivery partner was not professional",2026-05-28
+261,961-4247240-9385081,3,Product_Quality,"Delivery partner was not professional",2026-08-28
+262,964-9282890-7484101,2,Packaging,"Product quality does not match the listing",2026-05-17
+263,965-3936830-7705449,4,Product_Quality,"Good product minor delay in delivery",2026-01-09
+264,973-3270571-4151019,1,Payment_Issue,"Wrong product delivered",2026-06-28
+265,973-5447822-6035123,5,Delivery_Speed,"Product exactly as described very happy",2026-05-30
+266,974-1501195-4260183,3,Customer_Service,"Average experience delivery took longer than promised",2026-08-11
+267,975-5207550-4783065,1,Packaging,"Very late delivery extremely disappointed",2026-07-21
+268,976-8028140-9830766,3,Payment_Issue,"Product is okay not great not terrible",2026-02-16
+269,979-7266987-5961980,4,Packaging,"Good product minor delay in delivery",2026-08-23
+270,984-2134072-7132991,5,Packaging,"Smooth payment and quick delivery",2026-02-02
+271,989-8689799-3750982,2,Delivery_Speed,"Payment issue caused delay in order",2026-05-13
+272,992-2742919-9925357,5,Product_Quality,"Excellent delivery arrived before expected date",2026-05-06
+273,993-6793545-3149984,4,Product_Quality,"Nice product quality delivery was on time",2026-07-11
+274,994-8265232-1491101,5,Packaging,"Fast shipping and great packaging",2026-07-15
