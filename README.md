@@ -8,7 +8,6 @@ Method: Exploratory data analysis
 Tool used: MySQL 
 
 I designed the distributions to mirror real e-commerce patterns, but no actual customer, seller, or business data was used.
-All data is synthetically generated.
 
 1. BUYER ORDER FULFILLMENT & DELIVERY PERFORMANCE
 On-Time Delivery Rate (OTDR) by region and seller was calculated and the total orders were missing and the delivery date is found. Carrier wise delays are analyzed, and buyer pin code level failure rate was found.
